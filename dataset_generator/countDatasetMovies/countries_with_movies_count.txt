@@ -1,0 +1,86 @@
+Kontynent  | Kraj            | Liczba filmików
+---------------------------------------------
+Africa     | Ghana           | 51
+Africa     | Kenya           | 50
+Africa     | South Africa    | 44
+Africa     | Namibia         | 41
+Africa     | Egypt           | 37
+Africa     | Ethiopia        | 36
+Africa     | Tunisia         | 35
+Africa     | Algeria         | 29
+Africa     | Nigeria         | 29
+Africa     | Zambia          | 29
+Africa     | Uganda          | 16
+Africa     | Morocco         | 13
+Africa     | Tanzania        | 4
+Africa     | Zimbabwe        | 4
+Africa     | Rwanda          | 3
+Asia       | Japan           | 50
+Asia       | China           | 49
+Asia       | Iran            | 47
+Asia       | Indonesia       | 43
+Asia       | Bangladesh      | 40
+Asia       | Thailand        | 40
+Asia       | Vietnam         | 38
+Asia       | Saudi Arabia    | 37
+Asia       | Malaysia        | 35
+Asia       | Laos            | 34
+Asia       | Philippines     | 34
+Asia       | Singapore       | 34
+Asia       | South Korea     | 34
+Asia       | Sri Lanka       | 32
+Asia       | India           | 20
+Asia       | Myanmar         | 16
+Asia       | Kazakhstan      | 7
+Asia       | Kyrgyzstan      | 2
+Europe     | Sweden          | 67
+Europe     | Czech Republic  | 55
+Europe     | Austria         | 51
+Europe     | Ireland         | 50
+Europe     | Spain           | 48
+Europe     | Italy           | 47
+Europe     | France          | 45
+Europe     | Poland          | 45
+Europe     | Hungary         | 44
+Europe     | Norway          | 44
+Europe     | Portugal        | 41
+Europe     | Finland         | 40
+Europe     | Netherlands     | 40
+Europe     | Germany         | 39
+Europe     | Belgium         | 38
+Europe     | Denmark         | 38
+Europe     | Serbia          | 38
+Europe     | Iceland         | 37
+Europe     | Russia          | 33
+Europe     | Greece          | 31
+Europe     | Slovenia        | 31
+Europe     | Slovakia        | 6
+Europe     | Albania         | 5
+Europe     | Romania         | 5
+North America | United States   | 54
+North America | Canada          | 48
+North America | Mexico          | 41
+North America | Cuba            | 39
+North America | Panama          | 30
+North America | Haiti           | 9
+North America | Nicaragua       | 4
+North America | Guatemala       | 2
+North America | Dominican Republic | 1
+Oceania    | Australia       | 52
+Oceania    | New Zealand     | 46
+Oceania    | Fiji            | 24
+Oceania    | Samoa           | 20
+Oceania    | Papua New Guinea | 17
+South America | Chile           | 43
+South America | Peru            | 43
+South America | Argentina       | 40
+South America | Brazil          | 30
+South America | Colombia        | 30
+South America | Paraguay        | 10
+South America | Ecuador         | 9
+South America | Guyana          | 1
+South America | Suriname        | 1
+Unknown    | Hungary         | 29
+Unknown    | Kyrgyzstan      | 25
+
+Suma: 2 587 filmików
